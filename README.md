@@ -39,3 +39,4 @@ You may also see any lint errors in the console.
 - Event Listener para el botón clear
 - Calcular el resultado
 - Manejar input vacío
+![Untitled](https://user-images.githubusercontent.com/84105167/162578313-a2e72b76-6895-41fd-a026-8f71b2b0b0b0.png)
